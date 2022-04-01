@@ -1,5 +1,5 @@
 # argon-barbatos-emotions
-适用于 Wordpress 的 Argon 主题的 原神-巴巴托斯 表情包插件
+适用于 Wordpress 的 Argon 主题的 原神-巴巴托斯 表情包插件，共计收录 45 枚表情。
 
 
 ## 安装
